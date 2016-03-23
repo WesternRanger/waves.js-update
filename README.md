@@ -11,4 +11,4 @@
     
 则是 给 '.csbutton' 去除效果。
 
-waves.js 的使用详情  ![](http://fian.my.id/Waves/)
+waves.js 的使用详情  [waves.js使用详情](http://fian.my.id/Waves/)
